@@ -15,8 +15,8 @@
   },
   "license": "MIT",
   "author": "Aswin U Nair",
-  "type": "typescript",
-  "main": "index.js",
+  "type": "commonjs",
+  "main": "index.ts",
   "scripts": {
     "start": "ts-node-dev --poll src/index.ts",
     "test": "jest --watchAll --no-cache"
